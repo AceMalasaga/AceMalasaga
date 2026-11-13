@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/ace-bernard-malasaga-985480345/">
     <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:acemalasaga30@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=acemalasaga30@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
